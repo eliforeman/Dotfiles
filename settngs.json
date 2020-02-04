@@ -1,0 +1,16 @@
+{
+    "workbench.colorTheme": "Electron",
+    "editor.tabCompletion": "onlySnippets",
+    "files.autoSave": "afterDelay",
+    "vim.insertModeKeyBindings": [{
+        "before": ["j","j"],
+        "after": ["<Esc>"]
+    }],
+    "git.confirmSync": false,
+    "git.autofetch": true,
+    "[html]": {
+        "editor.defaultFormatter": "mohd-akram.vscode-html-format"
+    },
+    "window.zoomLevel": 0,
+    "diffEditor.ignoreTrimWhitespace": false
+}
